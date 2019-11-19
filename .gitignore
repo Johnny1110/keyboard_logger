@@ -1,0 +1,15 @@
+# *.iml
+# *.ipr
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/
+
